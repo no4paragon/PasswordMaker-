@@ -20,32 +20,7 @@
 <pre>Blink Teeth Warlike Abandoned1<br>Argue Puny Instruct Meddle1<br>2009,10 Shaky Knowing Canvas1         (Not a valid extra credit password)<br>Adjustment Warm Zebra Trains1<br>Rotten Puffy Gruesome Optimal1</pre>
 <h2>Delivery</h2>
 <p>On or before the due date, students shall submit their version of their main program (e.g., main.cpp) and the output their program produced when they ran it locally (I should see twenty sets of random passwords).&nbsp;</p>
-<h2>Grading</h2>
-<p>You earn points on this assignment through the following ways:</p>
-<table border="1">
-<tbody>
-<tr>
-<td>Points</td>
-<td>Requirement</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Tokens extracted correctly from input file.</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Passwords meet the requirements.</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Coding Style: For example, using helper functions with data structures as return values</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Example Output provided.</td>
-</tr>
-</tbody>
-</table>
+
 <h2>Other Notes</h2>
 <p>In this assignment, students ABSOLUTELY SHOULD use the data structures provided in the C++ standard library.&nbsp;</p>
 <p>During development, it will help to make a few example files to verify your token extraction works correctly. Instead of using something huge like the input files the instructor provided, simply create a basic text file in notepad (or vi) containing only a handful of words. Then, after you extract tokens, you can verify the set of tokens is correct. Proof out token extraction before starting password generation.&nbsp;</p>
